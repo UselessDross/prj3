@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="SW3_project\SW3_project\Source Files\main.c">
+<ExpandedNodeIds>
+<v>SW3_project</v>
+<v>SW3_project\SW3_project</v>
+<v>SW3_project\SW3_project\TopDesign</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Pins</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Analog</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Clocks</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Interrupts</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\DMA</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\System</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Directives</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Flash Security</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\EEPROM</v>
+<v>SW3_project\SW3_project\Header Files</v>
+<v>SW3_project\SW3_project\Header Files\cyapicallbacks.h</v>
+<v>SW3_project\SW3_project\Source Files</v>
+<v>SW3_project\SW3_project\Source Files\main.c</v>
+<v>SW3_project\SW3_project\Generated_Source</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\I2CS</v>
+<v>SW3_project\projekt</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SW3_project</v>
+<v>SW3_project\SW3_project</v>
+<v>SW3_project\SW3_project\TopDesign</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Pins</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Analog</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Clocks</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Interrupts</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\DMA</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\System</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Directives</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\Flash Security</v>
+<v>SW3_project\SW3_project\SW3_project.cydwr\EEPROM</v>
+<v>SW3_project\SW3_project\Header Files</v>
+<v>SW3_project\SW3_project\Header Files\cyapicallbacks.h</v>
+<v>SW3_project\SW3_project\Source Files</v>
+<v>SW3_project\SW3_project\Source Files\main.c</v>
+<v>SW3_project\SW3_project\Generated_Source</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\cy_boot</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\I2CS</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\I2CS\I2CS.c</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\I2CS\I2CS.h</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\I2CS\I2CS_BOOT.c</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\I2CS\I2CS_INT.c</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\I2CS\I2CS_MASTER.c</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\I2CS\I2CS_PM.c</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\I2CS\I2CS_PVT.h</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\I2CS\I2CS_SLAVE.c</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\SCL_1</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\SDA_1</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\cydevice.h</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>SW3_project\SW3_project\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SW3_project</v>
+<v>SW3_project\SW3_project</v>
+<v>SW3_project\SW3_project\TopDesign</v>
+<v>SW3_project\SW3_project\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SW3_project</v>
+<v>SW3_project\SW3_project</v>
+<v>SW3_project\SW3_project\TopDesign</v>
+<v>SW3_project\SW3_project\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SW3_project</v>
+<v>SW3_project\SW3_project</v>
+<v>SW3_project\SW3_project\CortexM3</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS_BOOT.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS_INT.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS_MASTER.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS_PM.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS_SLAVE.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\SCL_1.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\SDA_1.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\SW3_project.elf</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\SW3_project.hex</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\SW3_project.map</v>
+<v>SW3_project\SW3_project\SW3_project.gpdsc</v>
+<v>SW3_project\SW3_project\SW3_project.rpt</v>
+<v>SW3_project\SW3_project\SW3_project_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SW3_project</v>
+<v>SW3_project\SW3_project</v>
+<v>SW3_project\SW3_project\CortexM3</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS_BOOT.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS_INT.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS_MASTER.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS_PM.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\I2CS_SLAVE.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\SCL_1.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\Listing Files\SDA_1.lst</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\SW3_project.elf</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\SW3_project.hex</v>
+<v>SW3_project\SW3_project\CortexM3\ARM_GCC_541\Debug\SW3_project.map</v>
+<v>SW3_project\SW3_project\SW3_project.gpdsc</v>
+<v>SW3_project\SW3_project\SW3_project.rpt</v>
+<v>SW3_project\SW3_project\SW3_project_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SW3_project</v>
+<v>SW3_project\SW3_project</v>
+<v>SW3_project\SW3_project\PSoC 5LP Architecture TRM</v>
+<v>SW3_project\SW3_project\CY8C58LP Family Datasheet</v>
+<v>SW3_project\SW3_project\System Reference Guides</v>
+<v>SW3_project\SW3_project\System Reference Guides\cy_boot_v6_0</v>
+<v>SW3_project\SW3_project\cy_pins_v2_20</v>
+<v>SW3_project\SW3_project\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>SW3_project\SW3_project\I2C_v3_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SW3_project</v>
+<v>SW3_project\SW3_project</v>
+<v>SW3_project\SW3_project\PSoC 5LP Architecture TRM</v>
+<v>SW3_project\SW3_project\CY8C58LP Family Datasheet</v>
+<v>SW3_project\SW3_project\System Reference Guides</v>
+<v>SW3_project\SW3_project\System Reference Guides\cy_boot_v6_0</v>
+<v>SW3_project\SW3_project\cy_pins_v2_20</v>
+<v>SW3_project\SW3_project\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>SW3_project\SW3_project\I2C_v3_50.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\SW3_project.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\SW3_project.cydsn\main.c" />
+<name v=".\SW3_project.cydsn\Generated_Source\PSoC5\I2CS.h" />
+<name v=".\SW3_project.cydsn\Generated_Source\PSoC5\project.h" />
+<name v=".\SW3_project.cydsn\Generated_Source\PSoC5\I2CS.c" />
+<name v=".\SW3_project.cydsn\Generated_Source\PSoC5\I2CS_SLAVE.c" />
+<name v=".\SW3_project.cydsn\Generated_Source\PSoC5\CyLib.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1045, 645" SelectedTabbedMdiWindow="5be78552-f3fd-440d-b690-e7f2c1c52af9"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="e1ce1116-004e-4cff-a7f9-7a4b77bf546b" /><DocumentWindow Key="C:\Users\julei\Desktop\SW3\Projekt 3\GIT_code\SW3_code\Psock_code\SW3_project\SW3_project.cydsn\TopDesign\TopDesign.cysch" Guid="8366a51b-3b19-4afe-abcc-6a252b964938" /><DocumentWindow Key="C:\Users\julei\Desktop\SW3\Projekt 3\GIT_code\SW3_code\Psock_code\SW3_project\SW3_project.cydsn\main.c" Guid="5be78552-f3fd-440d-b690-e7f2c1c52af9" /><DocumentWindow Key="C:\Users\julei\Desktop\SW3\Projekt 3\GIT_code\SW3_code\Psock_code\SW3_project\SW3_project.cydsn\Generated_Source\PSoC5\I2CS.h" Guid="73554bd4-4975-4a56-96d6-9b3c8dc35547" /><DocumentWindow Key="C:\Users\julei\Desktop\SW3\Projekt 3\GIT_code\SW3_code\Psock_code\SW3_project\SW3_project.cydsn\Generated_Source\PSoC5\project.h" Guid="46a2d483-232b-4ab6-b346-5aa3d4fc94c2" /><DocumentWindow Key="C:\Users\julei\Desktop\SW3\Projekt 3\GIT_code\SW3_code\Psock_code\SW3_project\SW3_project.cydsn\Generated_Source\PSoC5\I2CS.c" Guid="2226962a-4d61-4eb1-a807-515621cb09c8" /><DocumentWindow Key="C:\Users\julei\Desktop\SW3\Projekt 3\GIT_code\SW3_code\Psock_code\SW3_project\SW3_project.cydsn\Generated_Source\PSoC5\I2CS_SLAVE.c" Guid="5d76bf0e-55e9-4c4f-aef6-bf4a496e4ad4" /><DocumentWindow Key="C:\Users\julei\Desktop\SW3\Projekt 3\GIT_code\SW3_code\Psock_code\SW3_project\SW3_project.cydsn\Generated_Source\PSoC5\CyLib.h" Guid="4da18a85-f532-44c2-8ffd-3d3af9fa9a53" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

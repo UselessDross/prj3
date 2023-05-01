@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|97bfb2b6-0c81-460a-9426-1c2b9bfebf47
+C:\Users\julei\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|3a88e94b-00fd-4801-87bf-82b7a94d944d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0fd946e2-5e78-4ffb-b218-416fcd9c25b3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1b06be47-9141-4f58-bcf8-04de85013524
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ac302f76-27a4-43bb-b77f-4c84ddbd5bf2
+C:\Users\julei\Desktop\SW3\Projekt 3\GIT_code\SW3_code\Psock_code\SW3_project\SW3_project.cydsn\SW3_project.cyprj|b3446c5c-2067-4c79-b388-95b742b3a703
